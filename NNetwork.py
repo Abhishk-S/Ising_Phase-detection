@@ -20,7 +20,7 @@ mnist = input_data.read_data_sets(numberlabels,lx,'txt', one_hot=True)
 
 print "reading sets ok"
 
-#sys.exit("pare aqui")
+#sys.exit
 
 # defining weighs and initlizatinon
 def weight_variable(shape):
